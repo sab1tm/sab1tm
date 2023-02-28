@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Sabit
 - 👀 I am a software engineer. Java lover. Spring adventurer.
-- 📫 I'm on telegram [t.me/sab1tm](https://t.me/sab1tm)
+- 📫 [t.me/sab1tm](https://t.me/sab1tm)
