@@ -1,5 +1,5 @@
 ## Hi! 👋
-🔭 I'm a Java Developer
+🔭 I'm a Software Engineer
 
 📫 How to reach me: [t.me/sab1tm](https://t.me/sab1tm)
 
