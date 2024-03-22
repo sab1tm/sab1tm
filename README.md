@@ -1,7 +1,12 @@
-## Hi! 👋
-🔭 I'm a Software Engineer
+## Sabit Murzaliev | Software Engineer
 
-📫 How to reach me: [t.me/sab1tm](https://t.me/sab1tm)
+- Designing
+- Coding
+- Breaking and fixing
+- Testing
+- Releasing
+
+📫 [t.me/sab1tm](https://t.me/sab1tm)
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sab1tm&langs_count=5&include_all_commits=true&show_icons=true&theme=transparent)]()
