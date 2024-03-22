@@ -6,6 +6,7 @@
 - Testing
 - Releasing
 
+👀 [CV]([https://t.me/sab1tm](https://sab1tm.github.io))
 📫 [t.me/sab1tm](https://t.me/sab1tm)
 
 
